@@ -596,7 +596,7 @@
 
                             <td align="center" valign="top">
 
-                                <a href="https://Flowdev Teams.com/" target="_blank"><img width="120" src="https://Flowdev Teams.com/wp-content/uploads/2020/01/1.png" alt="Flowdev Teams"></a>
+                                <a href="#" target="_blank"><img width="120" src="#wp-content/uploads/2020/01/1.png" alt="Flowdev Teams"></a>
 
                             </td>
 
